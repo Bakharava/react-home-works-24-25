@@ -9,7 +9,7 @@
 7. "Dessert", "Dinner", "Breakfast" shouldn't be clickable for now.
 8. By clicking the "Add to cart" button a counter on the card ![img.png](img.png) should accumulate all clicked items and display the total amount
 9. Links in the footer "template" column should lead to the https://www.google.com/ page. Other links in footer and header shouldn't be clickable for now.
-10. Open merge request. Merge request link add to moodle. After getting approve of your MR from a mentor merge it to the main branch
+10. Open merge request. Merge request link add to moodle. After getting approve of your MR from a mentor merge it to the main branch:
    10.1 Merge request should include:
     - homework number
     - what was done (description of your changes)
